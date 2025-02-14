@@ -11,4 +11,5 @@ function calculateCreatures() {
 
     let monsterinformation = (region + " " + monstername).toUpperCase();
 
-    document.getElementById("result").innerHTML = 'After ' + t + ' hours, the population of ' + monsterinformation + ' has risen to ' + P;
+    document.getElementById("result").innerHTML = 'After ' + t + ' hours, the population of ' + monsterinformation + ' has risen to ' + P; 
+{
